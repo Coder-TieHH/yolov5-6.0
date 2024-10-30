@@ -23,14 +23,14 @@
 !cfg/yolov3*.cfg
 
 storage.googleapis.com
-runs/*
-data/*
-!data/hyps/*
-!data/images/zidane.jpg
-!data/images/bus.jpg
-!data/*.sh
+# runs/*
+# data/*
+# !data/hyps/*
+# !data/images/zidane.jpg
+# !data/images/bus.jpg
+# !data/*.sh
 
-results*.csv
+# results*.csv
 
 # Datasets -------------------------------------------------------------------------------------------------------------
 coco/
